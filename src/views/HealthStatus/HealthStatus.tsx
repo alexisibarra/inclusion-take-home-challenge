@@ -40,7 +40,7 @@ const HealthStatus: FC = () => {
 
   useEffect(() => {
     dispatch(getAllStatus());
-  }, []);
+  }, [dispatch]);
 
   return (
     <HealthStatusStyled>
