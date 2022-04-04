@@ -1,5 +1,6 @@
 {
   "name": "factory-four-status-page",
+  "homepage": "http://alexisibarra.github.io/inclusion-take-home-challenge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,6 +55,7 @@
   },
   "devDependencies": {
     "@types/cypress-cucumber-preprocessor": "^4.0.1",
+    "gh-pages": "^3.2.3",
     "@types/jest": "^26.0.22",
     "@types/react-csv": "^1.1.1",
     "@types/react-input-mask": "^3.0.0",
@@ -105,15 +107,14 @@
     "check": "tsc --noEmit",
     "checkAll": "npm run lint && npm run check",
     "typewatch": "npx tsc --noEmit --watch",
-    "typecheck": "npx tsc --noEmit"
+    "typecheck": "npx tsc --noEmit",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "jest": {
     "testMatch": [
       "**/*.{steps,spec,test}.{js,jsx,ts,tsx}"
     ]
-  },
-  "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true
   },
   "eslintConfig": {
     "extends": "react-app"
