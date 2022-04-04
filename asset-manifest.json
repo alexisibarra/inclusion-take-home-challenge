@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/inclusion-take-home-challenge/static/css/main.d86cd4d0.chunk.css",
+    "main.js": "/inclusion-take-home-challenge/static/js/main.b6b1530a.chunk.js",
+    "main.js.map": "/inclusion-take-home-challenge/static/js/main.b6b1530a.chunk.js.map",
+    "runtime-main.js": "/inclusion-take-home-challenge/static/js/runtime-main.367664b1.js",
+    "runtime-main.js.map": "/inclusion-take-home-challenge/static/js/runtime-main.367664b1.js.map",
+    "static/css/2.90393be3.chunk.css": "/inclusion-take-home-challenge/static/css/2.90393be3.chunk.css",
+    "static/js/2.b1922e85.chunk.js": "/inclusion-take-home-challenge/static/js/2.b1922e85.chunk.js",
+    "static/js/2.b1922e85.chunk.js.map": "/inclusion-take-home-challenge/static/js/2.b1922e85.chunk.js.map",
+    "index.html": "/inclusion-take-home-challenge/index.html",
+    "static/css/2.90393be3.chunk.css.map": "/inclusion-take-home-challenge/static/css/2.90393be3.chunk.css.map",
+    "static/css/main.d86cd4d0.chunk.css.map": "/inclusion-take-home-challenge/static/css/main.d86cd4d0.chunk.css.map",
+    "static/js/2.b1922e85.chunk.js.LICENSE.txt": "/inclusion-take-home-challenge/static/js/2.b1922e85.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/inclusion-take-home-challenge/static/media/inter-v3-latin-regular.351b7924.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367664b1.js",
+    "static/css/2.90393be3.chunk.css",
+    "static/js/2.b1922e85.chunk.js",
+    "static/css/main.d86cd4d0.chunk.css",
+    "static/js/main.b6b1530a.chunk.js"
+  ]
+}
