@@ -37,7 +37,11 @@ export const useHealthStatusColumn: TUseHealthStatusColumn = () => {
         key: "time",
         dataIndex: "time",
         align: "center",
-        title: "time",
+        title: "Time",
+        render: (value: string) =>
+          value
+            ? new Date(value).toLocaleString()
+            : new Date().toLocaleString(),
       },
       {
         key: "version0",
