@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/inclusion-take-home-challenge/static/css/main.d86cd4d0.chunk.css",
-    "main.js": "/inclusion-take-home-challenge/static/js/main.d0d33d7f.chunk.js",
-    "main.js.map": "/inclusion-take-home-challenge/static/js/main.d0d33d7f.chunk.js.map",
+    "main.js": "/inclusion-take-home-challenge/static/js/main.caf2e3b0.chunk.js",
+    "main.js.map": "/inclusion-take-home-challenge/static/js/main.caf2e3b0.chunk.js.map",
     "runtime-main.js": "/inclusion-take-home-challenge/static/js/runtime-main.9c78e442.js",
     "runtime-main.js.map": "/inclusion-take-home-challenge/static/js/runtime-main.9c78e442.js.map",
     "static/css/2.b751148d.chunk.css": "/inclusion-take-home-challenge/static/css/2.b751148d.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.b751148d.chunk.css",
     "static/js/2.d2a6d748.chunk.js",
     "static/css/main.d86cd4d0.chunk.css",
-    "static/js/main.d0d33d7f.chunk.js"
+    "static/js/main.caf2e3b0.chunk.js"
   ]
 }
